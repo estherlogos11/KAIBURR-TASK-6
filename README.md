@@ -13,18 +13,21 @@ other
    - Visualize data: Create plots and visualizations to gain insights into the distribution of classes and features.
    - Handle missing data: Determine if there are missing values and decide how to handle them (impute or remove).
    - Feature Engineering: Create new features that might help improve model performance. For text data, this could include extracting word counts, TF-IDF scores, or word embeddings.
-   - ![image](https://github.com/estherlogos11/task-6/assets/94285360/c975c01a-ca9e-427f-a401-8c323f592216)
+
+![20](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/ff85cb71-72ef-4878-a661-e550182412e9)
+  
+
 # DATA VISUALIZATION
-![image](https://github.com/estherlogos11/task-6/assets/94285360/8ead38b7-a076-4401-a2b0-9c42d1931850)
+![18](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/f4ba1791-0f2b-4f5f-b3fd-673e46a7f64e)
 
-![image](https://github.com/estherlogos11/task-6/assets/94285360/43663370-4d87-4d49-8ab4-e329c4a2543c)
+![19](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/bf9a0011-7529-438b-a984-b39379469db0)
 
-![image](https://github.com/estherlogos11/task-6/assets/94285360/b8d2ffae-f65e-424b-a3e0-9fc1d17b7d89)
 
-![image](https://github.com/estherlogos11/task-6/assets/94285360/4f10f1df-45a2-4a40-89bf-45f055369b01)
+![17](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/53ff1b10-b691-4121-9d08-108fd4b459a6)
 
-![image](https://github.com/estherlogos11/task-6/assets/94285360/e3026b4c-c1df-4e81-9b05-81b392016e45)
+![16](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/a16aea70-b58b-4492-a3f9-5f82fd138b0b)
 
+![15](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/d4b500a8-6ee0-44a5-af59-30c182a3c399)
 
 2. **Text Pre-Processing:**
    - Tokenization: Break down text into individual words or tokens.
@@ -49,8 +52,9 @@ other
    - Train multiple models with different algorithms or hyperparameters.
    - Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1-score, ROC-AUC).
    - Use cross-validation techniques to assess model generalization.
-   - ![image](https://github.com/estherlogos11/task-6/assets/94285360/fb0720e2-12de-448d-8748-7f7b256581e7)
-   - ![image](https://github.com/estherlogos11/task-6/assets/94285360/987d81ef-2c05-454b-a26d-7044d9d570af)
+
+![14](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/8f20163b-6805-4fe6-aa3c-4de17b14960f)
+![13](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/6b199e46-93ef-4fe6-9c7b-10b2399404b3)
 
 
 
@@ -58,11 +62,11 @@ other
    - Choose the best-performing model based on evaluation metrics.
    - Fine-tune hyperparameters to optimize model performance (e.g., grid search or random search).
    - Perform a final evaluation on a separate test dataset to estimate how the model will perform in the real world.
-   - ![image](https://github.com/estherlogos11/task-6/assets/94285360/e85f2cdd-248f-428f-831f-ce8797dfdfff)
+![12](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/63e8d67b-b685-4e8a-b2ea-d2e6026b3661)
 
 
 6. **Prediction:**
    - Once you have a well-performing model, you can use it to make predictions on new, unseen data.
    - Preprocess the new text data in the same way as the training data.
    - Use the trained model to predict the class labels for the new data.
-![image](https://github.com/estherlogos11/task-6/assets/94285360/387c6b03-8ef8-4ad6-ae70-deb6a4b4246c)
+   - ![11](https://github.com/estherlogos11/KAIBURR-TASK-6/assets/94285360/e25c7652-7993-40ba-87fb-96db681c9ade)
